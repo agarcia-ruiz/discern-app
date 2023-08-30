@@ -4,7 +4,7 @@ The app uses a pretrained CNN classifier scheme for voxel-wise classification of
 
 ![Probability maps](doc/img/probmaps.png)
 
-This is the code repository of the brain tumour classification pipeline described in the work [*An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI*](https://doi.org/10.21203/rs.3.rs-2362207/v1) (preprint) by Raquel Perez-Lopez and colleagues from the Vall d'Hebron Institute of Oncology (VHIO), Barcelona, Spain.
+This is the code repository of the brain tumour classification pipeline described in the work *An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI* by Raquel Perez-Lopez and colleagues from the Vall d'Hebron Institute of Oncology (VHIO), Barcelona, Spain.
 
 
 The app will be running in our servers on [link.](http://84.88.64.102:5000/discern-app)
@@ -75,7 +75,7 @@ See all the options in the docstring help of `run.py`.
 
 ## Referencing
 - Preprint:
->Raquel Perez-Lopez et al., [*An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI*](https://doi.org/10.21203/rs.3.rs-2362207/v1), DOI: 10.21203/rs.3.rs-2362207/v1
+>Raquel Perez-Lopez et al., *An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI*
 - Github:
 >[github.com/radiomicsgroup/discern-app](https://github.com/radiomicsgroup/discern-app)
 
